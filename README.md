@@ -5,7 +5,7 @@ Declaring and defining Classes in C++ might be a tedious task. That's why I have
   * 2 Class.hpp
   * 3 Class.cpp
   * usage: createclass.sh <folder_name> <class_name>
-### The createfolder, creates 2 files
+### The createclass, creates 2 files
   * 1 Class.hpp
   * 2 Class.cpp
   * usage: createclass.sh <class_name>
